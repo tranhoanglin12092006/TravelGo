@@ -1,0 +1,266 @@
+[
+  {
+    "id": "dest-1",
+    "name": "Đà Lạt",
+    "country": "Việt Nam",
+    "category": "mountain",
+    "description": "Thành phố ngàn hoa với khí hậu mát mẻ quanh năm, những đồi thông thơ mộng và sương mù lãng mạn. Đà Lạt nổi tiếng với Thung Lũng Tình Yêu, hồ Tuyền Lâm và những vườn dâu tây chín mọng.",
+    "price": 2500000,
+    "rating": 4.8,
+    "images": [
+      "https://images.unsplash.com/photo-1559592413-7cec4d0cae2b?w=800&q=80",
+      "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=800&q=80",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?w=800&q=80"
+    ],
+    "duration": "3 ngày 2 đêm",
+    "featured": true,
+    "highlights": [
+      "Hồ Xuân Hương & Thung Lũng Tình Yêu",
+      "Săn mây sớm tại đồi chè Cầu Đất",
+      "Quảng trường Lâm Viên biểu tượng",
+      "Chợ đêm Đà Lạt thưởng thức bánh tráng nướng"
+    ]
+  },
+  {
+    "id": "dest-2",
+    "name": "Đà Nẵng",
+    "country": "Việt Nam",
+    "category": "beach",
+    "description": "Thành phố biển đáng sống bậc nhất Việt Nam với bãi biển Mỹ Khê trải dài, Bà Nà Hills nguy nga với Cầu Vàng ấn tượng và bán đảo Sơn Trà linh thiêng.",
+    "price": 3200000,
+    "rating": 4.9,
+    "images": [
+      "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=800&q=80",
+      "https://images.unsplash.com/photo-1559592413-7cec4d0cae2b?w=800&q=80",
+      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80"
+    ],
+    "duration": "4 ngày 3 đêm",
+    "featured": true,
+    "highlights": [
+      "Check-in Cầu Vàng Bà Nà Hills",
+      "Tắm biển Mỹ Khê nước trong xanh",
+      "Ngắm Cầu Rồng phun lửa cuối tuần",
+      "Viếng Chùa Linh Ứng bán đảo Sơn Trà"
+    ]
+  },
+  {
+    "id": "dest-3",
+    "name": "Phú Quốc",
+    "country": "Việt Nam",
+    "category": "beach",
+    "description": "Đảo ngọc thiên đường với những bãi cát trắng mịn màng như Bãi Sao, làn nước biển màu ngọc bích, các khu resort chuẩn 5 sao quốc tế và chợ đêm nhộn nhịp.",
+    "price": 4500000,
+    "rating": 4.9,
+    "images": [
+      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "https://images.unsplash.com/photo-1504457047772-27faf1c00561?w=800&q=80",
+      "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=800&q=80"
+    ],
+    "duration": "4 ngày 3 đêm",
+    "featured": true,
+    "highlights": [
+      "Khám phá Quần đảo An Thới & cáp treo Hòn Thơm",
+      "Tắm biển Bãi Sao bãi cát mịn trắng",
+      "Trải nghiệm lặn ngắm san hô rực rỡ",
+      "Thưởng thức hải sản tươi tại làng chài Hàm Ninh"
+    ]
+  },
+  {
+    "id": "dest-4",
+    "name": "Vịnh Hạ Long",
+    "country": "Việt Nam",
+    "category": "culture",
+    "description": "Kỳ quan thiên nhiên thế giới được UNESCO công nhận với hàng ngàn đảo đá vôi kỳ vĩ nổi bật trên làn nước màu ngọc bích cùng những hang động thạch nhũ huyền ảo.",
+    "price": 3800000,
+    "rating": 4.8,
+    "images": [
+      "https://images.unsplash.com/photo-1528127269322-539801943592?w=800&q=80",
+      "https://images.unsplash.com/photo-1555921015-5532091f6026?w=800&q=80",
+      "https://images.unsplash.com/photo-1540611025311-01df3cef54b5?w=800&q=80"
+    ],
+    "duration": "2 ngày 1 đêm",
+    "featured": true,
+    "highlights": [
+      "Nghỉ đêm trên du thuyền sang trọng 5 sao",
+      "Chèo thuyền kayak khám phá Hang Luồn",
+      "Chiêm ngưỡng Hang Sửng Sốt tráng lệ",
+      "Ngắm toàn cảnh vịnh từ đỉnh đảo Ti Tốp"
+    ]
+  },
+  {
+    "id": "dest-5",
+    "name": "Sa Pa",
+    "country": "Việt Nam",
+    "category": "mountain",
+    "description": "Thị trấn trong mây với những thửa ruộng bậc thang mùa lúa chín vàng óng ánh, đỉnh Fansipan hùng vĩ - nóc nhà Đông Dương và văn hóa đa sắc tộc vùng cao.",
+    "price": 2800000,
+    "rating": 4.7,
+    "images": [
+      "https://images.unsplash.com/photo-1540611025311-01df3cef54b5?w=800&q=80",
+      "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&q=80",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80"
+    ],
+    "duration": "3 ngày 2 đêm",
+    "featured": true,
+    "highlights": [
+      "Chinh phục đỉnh Fansipan 3.143m bằng cáp treo",
+      "Trekking bản Cát Cát ngắm suối Mường Hoa",
+      "Chiêm ngưỡng đèo Ô Quy Hồ tráng lệ",
+      "Thưởng thức lẩu cá hồi và thắng cố Tây Bắc"
+    ]
+  },
+  {
+    "id": "dest-6",
+    "name": "Hội An",
+    "country": "Việt Nam",
+    "category": "culture",
+    "description": "Đô thị cổ duyên dáng bên dòng sông Hoài với những ngôi nhà tường vàng mái ngói rêu phong, đèn lồng rực rỡ về đêm và nền ẩm thực đường phố đặc sắc.",
+    "price": 2200000,
+    "rating": 4.9,
+    "images": [
+      "https://images.unsplash.com/photo-1573790387438-4da905039392?w=800&q=80",
+      "https://images.unsplash.com/photo-1555921015-5532091f6026?w=800&q=80",
+      "https://images.unsplash.com/photo-1570366583862-f91883984fde?w=800&q=80"
+    ],
+    "duration": "3 ngày 2 đêm",
+    "featured": true,
+    "highlights": [
+      "Đi dạo phố cổ lung linh đèn lồng về đêm",
+      "Thả đèn hoa đăng cầu an trên sông Hoài",
+      "Thưởng thức Cao Lầu, Mì Quảng, Bánh Mì Phượng",
+      "Trải nghiệm đi thuyền thúng tại Rừng dừa Bảy Mẫu"
+    ]
+  },
+  {
+    "id": "dest-7",
+    "name": "Nha Trang",
+    "country": "Việt Nam",
+    "category": "beach",
+    "description": "Vịnh biển nhiệt đới sôi động với bờ cát vàng mịn trải dài, công viên giải trí VinWonders đỉnh cao và hệ sinh thái biển phong phú bậc nhất Việt Nam.",
+    "price": 3500000,
+    "rating": 4.6,
+    "images": [
+      "https://images.unsplash.com/photo-1504457047772-27faf1c00561?w=800&q=80",
+      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=800&q=80"
+    ],
+    "duration": "3 ngày 2 đêm",
+    "featured": false,
+    "highlights": [
+      "Vui chơi trọn ngày tại VinWonders Nha Trang",
+      "Tour 4 đảo: Hòn Mun, Hòn Tằm lặn biển ngắm san hô",
+      "Tắm bùn khoáng nóng thư giãn I-Resort",
+      "Thưởng thức nem nướng Ninh Hòa và bún sứa"
+    ]
+  },
+  {
+    "id": "dest-8",
+    "name": "Huế",
+    "country": "Việt Nam",
+    "category": "culture",
+    "description": "Cố đô trầm mặc cổ kính với Đại Nội nguy nga, các lăng tẩm triều Nguyễn uy nghiêm, dòng sông Hương thơ mộng và nhã nhạc cung đình Huế di sản nhân loại.",
+    "price": 2600000,
+    "rating": 4.7,
+    "images": [
+      "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=800&q=80",
+      "https://images.unsplash.com/photo-1573790387438-4da905039392?w=800&q=80",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?w=800&q=80"
+    ],
+    "duration": "3 ngày 2 đêm",
+    "featured": false,
+    "highlights": [
+      "Tham quan Hoàng Thành Đại Nội Huế",
+      "Khám phá Lăng Khải Định kiến trúc tinh xảo",
+      "Du thuyền rồng nghe ca Huế trên sông Hương",
+      "Thưởng thức ẩm thực cung đình & chè hẻm Huế"
+    ]
+  },
+  {
+    "id": "dest-9",
+    "name": "Ninh Bình",
+    "country": "Việt Nam",
+    "category": "culture",
+    "description": "Vùng đất cố đô Hoa Lư được mệnh danh 'Vịnh Hạ Long trên cạn' với quần thể Tràng An non nước hữu tình, Tam Cốc Bích Động và Hang Múa ngắm toàn cảnh.",
+    "price": 2000000,
+    "rating": 4.8,
+    "images": [
+      "https://images.unsplash.com/photo-1555921015-5532091f6026?w=800&q=80",
+      "https://images.unsplash.com/photo-1540611025311-01df3cef54b5?w=800&q=80",
+      "https://images.unsplash.com/photo-1528127269322-539801943592?w=800&q=80"
+    ],
+    "duration": "2 ngày 1 đêm",
+    "featured": false,
+    "highlights": [
+      "Đi thuyền nan xuyên thủy động Quần thể Tràng An",
+      "Chinh phục gần 500 bậc đá đỉnh Hang Múa",
+      "Chiêm bái Chùa Bái Đính kỷ lục Đông Nam Á",
+      "Thưởng thức đặc sản cơm cháy và thịt dê núi"
+    ]
+  },
+  {
+    "id": "dest-10",
+    "name": "Hà Giang",
+    "country": "Việt Nam",
+    "category": "mountain",
+    "description": "Mảnh đất địa đầu Tổ quốc với cao nguyên đá Đồng Văn hùng vĩ, hẻm vực Tu Sản sâu nhất Đông Nam Á, sông Nho Quế màu xanh ngọc bích và đèo Mã Pí Lèng huyền thoại.",
+    "price": 3000000,
+    "rating": 4.9,
+    "images": [
+      "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&q=80",
+      "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80",
+      "https://images.unsplash.com/photo-1540611025311-01df3cef54b5?w=800&q=80"
+    ],
+    "duration": "3 ngày 2 đêm",
+    "featured": true,
+    "highlights": [
+      "Chinh phục Đèo Mã Pí Lèng trong tứ đại đỉnh đèo",
+      "Đi thuyền trên hẻm Tu Sản sông Nho Quế",
+      "Check-in Cột cờ Lũng Cú cực Bắc Tổ quốc",
+      "Ghé thăm Dinh thự Vua Mèo tại Sà Phìn"
+    ]
+  },
+  {
+    "id": "dest-11",
+    "name": "Mũi Né",
+    "country": "Việt Nam",
+    "category": "resort",
+    "description": "Thủ phủ resort biển Việt Nam với những đồi cát bay rực rỡ sắc màu, gió lộng quanh năm phù hợp lướt ván diều, cùng các khu nghỉ dưỡng ven biển đẳng cấp.",
+    "price": 2800000,
+    "rating": 4.6,
+    "images": [
+      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "https://images.unsplash.com/photo-1504457047772-27faf1c00561?w=800&q=80",
+      "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=800&q=80"
+    ],
+    "duration": "3 ngày 2 đêm",
+    "featured": false,
+    "highlights": [
+      "Trải nghiệm xe jeep địa hình đồi cát trắng Bàu Trắng",
+      "Dạo bước chân trần ngắm Suối Tiên kỳ vĩ",
+      "Khám phá làng chài Mũi Né bình minh",
+      "Nghỉ dưỡng resort view biển yên bình"
+    ]
+  },
+  {
+    "id": "dest-12",
+    "name": "Quy Nhơn",
+    "country": "Việt Nam",
+    "category": "resort",
+    "description": "Thành phố biển thanh bình với eo biển Kỳ Co nước xanh trong vắt thấy đáy, bãi đá Eo Gió hoang sơ lộng gió và các resort nghỉ dưỡng tuyệt vời.",
+    "price": 3200000,
+    "rating": 4.8,
+    "images": [
+      "https://images.unsplash.com/photo-1583417319070-4a69db38a482?w=800&q=80",
+      "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=80",
+      "https://images.unsplash.com/photo-1559592413-7cec4d0cae2b?w=800&q=80"
+    ],
+    "duration": "3 ngày 2 đêm",
+    "featured": false,
+    "highlights": [
+      "Chiêm ngưỡng con đường ven biển ngoạn mục Eo Gió",
+      "Tắm biển Kỳ Co trong vắt tựa Maldives",
+      "Lặn ngắm rạn san hô Bãi Dứa rực rỡ",
+      "Thưởng thức bánh xèo tôm nhảy gia truyền"
+    ]
+  }
+]
